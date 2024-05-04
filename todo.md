@@ -1,0 +1,8 @@
+- Prisma and Prisma client installed
+- install the xlsx
+- initiate prisma
+- create the db and get the db url string
+- Create your User model
+- Create a global prisma instance
+- push the migrations => the model to mongodb
+- Create the UI
